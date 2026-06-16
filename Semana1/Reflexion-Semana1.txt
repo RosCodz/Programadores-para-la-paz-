@@ -3,6 +3,6 @@ Cuando usamos internet de forma responsable,
 aprendemos a verificar la información antes de compartirla,
 lo cual es clave para participar como ciudadanos críticos y bien informados. 
 Esa participación ciudadana responsable también implica colaborar con otros de manera organizada y transparente. 
-Ahí es donde entra Git, porque es exactamente una herramienta de colaboración y organización: permite que varias personas trabajen juntas en un proyecto, r
-egistrando cada cambio y quién lo hizo, con total transparencia. Así como un buen ciudadano rinde cuentas de sus acciones, Git nos enseña a documentar y justificar cada modificación que hacemos con un mensaje de commit. 
+Ahí es donde entra Git, porque es exactamente una herramienta de colaboración y organización: permite que varias personas trabajen juntas en un proyecto, 
+registrando cada cambio y quién lo hizo, con total transparencia. Así como un buen ciudadano rinde cuentas de sus acciones, Git nos enseña a documentar y justificar cada modificación que hacemos con un mensaje de commit. 
 En resumen, los tres conceptos comparten un valor fundamental que es la responsabilidad, ya sea con la información que consumimos, con nuestra comunidad o con el trabajo que entregamos.
