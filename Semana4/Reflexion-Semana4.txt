@@ -1,0 +1,7 @@
+Que las comunidades puedan construir sus propias herramientas tecnológicas usando tecnologías abiertas como Node.js es fundamental porque les da independencia y autonomía para resolver sus problemas sin depender de 
+empresas externas que muchas veces no entienden sus necesidades reales. 
+Las tecnologías abiertas son gratuitas y tienen comunidades enormes de apoyo, lo que permite que cualquier persona con ganas de aprender pueda desarrollar soluciones adaptadas a su contexto local.
+Esto es especialmente importante en comunidades con pocos recursos, donde pagar por software costoso no es una opción viable. Además cuando una comunidad construye su propia herramienta, 
+tiene control total sobre sus datos y su privacidad, algo que las plataformas comerciales no siempre garantizan. 
+También genera un proceso de aprendizaje colectivo donde las personas se empoderan tecnológicamente y desarrollan capacidades que pueden seguir usando en otros proyectos. 
+En resumen, las tecnologías abiertas como Node.js democratizan el acceso al desarrollo de software y permiten que la tecnología sea una herramienta de transformación social y no solo un producto de consumo.
