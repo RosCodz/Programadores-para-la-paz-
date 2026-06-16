@@ -1,0 +1,18 @@
+Comandos para crear el repositorio 2
+
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+
+Comando para Guardar el repositorio para Visualizarlo en github
+
+cd ..
+
+git status
+git add .
+git commit -m "Actividad semana 2"
+git push
