@@ -1,0 +1,11 @@
+Ruta GET /
+Al visitar http://localhost:3000 el servidor responde con el mensaje
+"Servidor activo", confirmando que el servidor está en funcionamiento.
+
+Ruta GET /saludo
+Al visitar http://localhost:3000/saludo el servidor responde con
+"Hola comunidad", siendo un mensaje de bienvenida para los usuarios.
+
+Ruta GET /mensaje/:nombre
+Al visitar http://localhost:3000/mensaje/juan el servidor responde con
+"Hola juan", usando el nombre escrito en la URL como parámetro dinámico.
