@@ -1,0 +1,3 @@
+1. Proteger contraseñas: usar contraseñas fuertes y diferentes para cada cuenta, evitando datos personales obvios.
+2. No compartir credenciales: nunca dar tu usuario o contraseña a otras personas, ni siquiera a compañeros de confianza.
+3. Mantener software actualizado: instalar las actualizaciones del sistema y las aplicaciones para corregir fallos de seguridad conocidos.
