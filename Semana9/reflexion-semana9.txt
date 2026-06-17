@@ -1,0 +1,14 @@
+Es fundamental que las plataformas tecnológicas usadas por las
+comunidades funcionen de manera estable y segura en un servidor, porque
+de esa estabilidad depende que la información y los servicios estén
+disponibles cuando los ciudadanos los necesiten. Si un servidor falla
+constantemente o se cae sin previo aviso, la comunidad pierde acceso a
+herramientas importantes como reportes, registros o sistemas de
+comunicación, debilitando la confianza en la plataforma. Además, un
+servidor inestable puede generar pérdida de datos, errores en los
+procesos o brechas de seguridad que terceros podrían aprovechar. La
+estabilidad también permite que la plataforma crezca de forma
+ordenada, soportando más usuarios y funciones sin colapsar. En
+conclusión, un servidor estable y seguro no es solo un tema técnico,
+es la base que sostiene la confianza, la participación y la
+continuidad de cualquier proyecto comunitario digital.
