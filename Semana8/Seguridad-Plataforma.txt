@@ -1,0 +1,14 @@
+1. No exponer datos personales: evitar mostrar públicamente información
+sensible de los usuarios como direcciones, teléfonos o documentos.
+
+2. Proteger credenciales: almacenar contraseñas de forma cifrada y nunca
+guardarlas como texto plano en el código o las bases de datos.
+
+3. Usar conexiones seguras: implementar HTTPS en lugar de HTTP para que
+la información viaje cifrada entre el usuario y el servidor.
+
+4. Registrar accesos: mantener un historial de quién entra a la plataforma
+y qué acciones realiza, facilitando detectar actividades sospechosas.
+
+5. Limitar acceso a información sensible: aplicar roles y permisos para
+que solo usuarios autorizados puedan ver o modificar datos críticos.
