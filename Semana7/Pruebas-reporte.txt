@@ -1,0 +1,17 @@
+Al consultar la ruta GET /reportes después de haber enviado un reporte
+con POST, el servidor devuelve una lista en formato JSON con todos los
+reportes registrados hasta el momento, cada uno con su id, tipo y
+descripción.
+
+Ejemplo de respuesta esperada:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto demuestra que el servidor guarda los datos en memoria mientras está
+encendido, permitiendo consultarlos en cualquier momento a través de la
+ruta GET.
