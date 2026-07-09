@@ -1,0 +1,21 @@
+cat > reflexion-semana11.txt << 'EOF'
+REFLEXIÓN — Semana 11
+
+Una plataforma tecnológica que promueve la participación ciudadana necesita una base
+de datos porque sin ella no hay forma de guardar los reportes, causas ni apoyos de
+la comunidad de manera organizada y persistente. Sin almacenamiento estructurado,
+la información se pierde y el sistema no tiene memoria ni trazabilidad.
+
+La autenticación de usuarios es igualmente esencial porque garantiza que solo las
+personas autorizadas puedan realizar ciertas acciones, evitando que cualquier
+persona pueda modificar o eliminar información crítica del sistema.
+
+La protección de información es el tercer pilar fundamental, ya que una plataforma
+ciudadana maneja datos de personas reales que confían en el sistema. Si esa
+información se expone o se usa de forma indebida, se pone en riesgo la seguridad
+y la privacidad de la comunidad, lo que destruye la confianza en la herramienta.
+
+En conclusión, base de datos, autenticación y protección de información no son
+características opcionales, sino componentes básicos de cualquier plataforma
+responsable que busque fortalecer la participación ciudadana con ética y seguridad.
+EOF

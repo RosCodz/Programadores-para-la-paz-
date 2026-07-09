@@ -1,0 +1,18 @@
+cat > interfaz.txt << 'EOF'
+INTERFAZ BÁSICA — Plataforma comunitaria
+
+La interfaz tendría una sección principal para crear una nueva causa comunitaria,
+donde el usuario pueda ingresar un título, una descripción y la fecha del registro.
+
+También tendría una lista de causas disponibles para que los usuarios puedan
+consultarlas, filtrarlas y conocer el estado de cada una.
+
+Cada causa tendría un botón de apoyo y un contador visible que muestre cuántas
+personas la han apoyado, fomentando la participación ciudadana.
+
+Habría una sección de login para que los usuarios puedan autenticarse antes de
+realizar acciones como crear o apoyar una causa.
+
+La interfaz debe ser clara, sencilla y accesible, y no debe mostrar información
+privada de los usuarios en ninguna vista pública.
+EOF

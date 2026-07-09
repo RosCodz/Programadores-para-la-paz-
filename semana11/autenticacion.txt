@@ -1,0 +1,16 @@
+cat > autenticacion.txt << 'EOF'
+AUTENTICACIÓN — Semana 11
+
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones
+de la plataforma. Sin autenticación, cualquier persona podría ver, modificar o
+eliminar información sin ningún control.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada,
+registros internos o acciones que no deberían estar disponibles para cualquier
+persona, como crear causas, gestionar usuarios o consultar reportes sensibles.
+
+No se debe exponer públicamente ningún tipo de dato sensible como contraseñas,
+documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos
+personales de los miembros de la comunidad. Toda esta información debe manejarse
+de forma segura, cifrada y con acceso restringido según el rol del usuario.
+EOF
