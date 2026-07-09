@@ -1,0 +1,14 @@
+AUTOMATIZACIÓN SIMPLE — n8n + Telegram
+
+Evento: Se registra un nuevo reporte ciudadano en el sistema.
+
+Acción: n8n detecta el nuevo registro y envía un mensaje automático al canal de Telegram del equipo.
+
+Mensaje que se enviaría:
+"Nuevo reporte recibido. Por favor revisar el sistema para hacer seguimiento."
+
+Información que NO debe enviarse por seguridad:
+- Nombres completos del ciudadano.
+- Número de documento de identidad.
+- Dirección exacta o teléfono personal.
+- Claves, tokens o datos sensibles de la plataforma.

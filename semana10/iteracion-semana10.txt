@@ -1,0 +1,15 @@
+ITERACIÓN — Semana 10
+
+Tareas que haría primero:
+1. Registrar incidencias ciudadanas
+2. Enviar alertas automáticas al coordinador por Telegram
+
+¿Por qué son las más importantes?
+Porque sin registrar incidencias no hay datos que gestionar, y sin alertas el equipo
+no puede reaccionar a tiempo. Estas dos tareas forman la base del sistema.
+
+¿Qué significa que una tarea esté "terminada"?
+Una tarea está terminada cuando:
+- Funciona correctamente sin errores.
+- Fue probada con al menos un caso real o simulado.
+- Quedó registrada en Git con un commit descriptivo.

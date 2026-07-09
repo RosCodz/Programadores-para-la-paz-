@@ -1,0 +1,19 @@
+REFLEXIÓN — Semana 10
+
+Las metodologías ágiles como Scrum o Kanban permiten que una comunidad organice
+su trabajo de forma clara, dividiendo las tareas en ciclos cortos llamados iteraciones.
+Esto ayuda a enfocarse en lo más urgente primero y a detectar errores antes de que
+el proyecto crezca sin control.
+
+El backlog es clave porque le da al equipo visibilidad sobre qué falta por hacer,
+qué está en progreso y qué ya fue completado. Sin esta organización, es fácil perder
+el rumbo, duplicar esfuerzos o ignorar tareas importantes.
+
+La automatización con herramientas como n8n y Telegram puede mejorar mucho la
+coordinación comunitaria, enviando alertas y recordatorios sin intervención manual.
+Sin embargo, debe usarse con responsabilidad: nunca automatizar el envío de datos
+personales, siempre mantener revisión humana sobre los mensajes, y asegurarse de
+que el equipo entienda cómo funciona el flujo automatizado.
+
+En conclusión, la tecnología útil no solo es la que tiene buen código, sino la que
+está bien organizada, es trazable y respeta a las personas que la usan.
