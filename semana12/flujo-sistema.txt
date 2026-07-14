@@ -1,0 +1,19 @@
+cat > flujo-sistema.txt << 'EOF'
+FLUJO DEL SISTEMA — Petición en 3 Clics
+
+Paso 1: Un ciudadano ingresa a la plataforma y crea una causa comunitaria
+ingresando un título y una descripción del problema.
+
+Paso 2: La causa queda registrada en la base de datos con un identificador
+único, la fecha de creación y el estado "activa".
+
+Paso 3: Otros ciudadanos pueden ver la causa en la lista pública y apoyarla
+haciendo clic en el botón de apoyo, registrando su nombre y la fecha.
+
+Paso 4: El sistema cuenta automáticamente los apoyos recibidos y actualiza
+el contador visible en la plataforma en tiempo real.
+
+Paso 5: Cuando la causa alcanza el respaldo necesario, el sistema genera
+automáticamente un documento PDF formal con la causa, los apoyos registrados
+y la fecha, listo para ser presentado ante las autoridades correspondientes.
+EOF

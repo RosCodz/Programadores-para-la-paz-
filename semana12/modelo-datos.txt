@@ -1,0 +1,25 @@
+cat > modelo-datos.txt << 'EOF'
+MODELO DE DATOS — Petición en 3 Clics
+
+Entidad: Causa
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Almacenar las causas comunitarias creadas por los ciudadanos en la plataforma.
+
+
+Entidad: Apoyo
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar cada apoyo que recibe una causa, vinculándolo con la causa correspondiente
+y guardando la fecha para trazabilidad del proceso.
+EOF
