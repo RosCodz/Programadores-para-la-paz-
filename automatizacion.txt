@@ -1,0 +1,15 @@
+AUTOMATIZACIÓN — n8n y Telegram
+
+Evento: Se registra una nueva causa en la plataforma.
+
+Acción: n8n detecta el nuevo registro y envía un mensaje automático al canal de Telegram del equipo coordinador.
+
+Mensaje que se envía:
+"Nueva causa creada en la plataforma. Por favor revisar y hacer seguimiento."
+
+Información que NO debe enviarse por seguridad:
+- Cédulas o documentos de identidad.
+- Números de teléfono personales.
+- Direcciones físicas o correos privados.
+- Comentarios sensibles o datos personales de los ciudadanos.
+- Tokens, claves de API o contraseñas del sistema.

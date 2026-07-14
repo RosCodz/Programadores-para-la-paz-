@@ -1,0 +1,11 @@
+REFLEXIÓN FINAL — Semana 12
+
+Durante el curso aprendí que la tecnología puede ser una herramienta poderosa para fortalecer la participación ciudadana, siempre que se construya con organización, responsabilidad y pensamiento crítico sobre su impacto social.
+
+Aprendí a usar GitHub para versionar el trabajo, Node.js para construir servidores, bases de datos para almacenar información de forma estructurada, y herramientas como n8n y Telegram para automatizar procesos comunitarios sin exponer datos sensibles.
+
+Uno de los aprendizajes más importantes fue entender que organizar el trabajo por iteraciones y backlog no es solo una práctica técnica, sino una forma de garantizar que los proyectos avancen de manera sostenible y con foco en lo que realmente necesita la comunidad.
+
+También comprendí que proteger la privacidad de las personas que usan una plataforma es una responsabilidad ética fundamental. Una solución tecnológica con impacto social no depende solo de que el código funcione, sino de que respete y proteja a quienes confían en ella.
+
+Este curso me dio herramientas concretas para construir soluciones digitales con sentido ciudadano, y me hizo entender que programar también es una forma de contribuir a la paz y a la democracia.
